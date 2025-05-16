@@ -1,5 +1,4 @@
 
-# define a function
 def multiply(a, b):
     return a * b  # returns the product of a and b
 
